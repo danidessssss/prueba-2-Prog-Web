@@ -1,0 +1,20 @@
+{
+  "name": "xd",
+  "version": "1.0.0",
+  "description": "Actividad Servidor simple con node.js Proyecto Node.js - Servidor Básico Este repositorio contiene un proyecto práctico desarrollado para la asignatura de programación web, donde se implementa un servidor web utilizando el módulo nativo http de Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "mysql2": "^3.22.3"
+  }
+}
