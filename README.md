@@ -7,12 +7,15 @@ El objetivo de esta actividad es desarrollar una aplicación de backend utilizan
 
 ## 2. Instalación
 Siga estos pasos para configurar el proyecto localmente:
+
 Navegar a la carpeta del proyecto
 Instalar dependencias:
+
 npm install express axios cheerio
 
 ## 3. Ejecución Para iniciar el servidor, ejecute el siguiente comando en la terminal:
 node app.js
+
 El servidor estará disponible en: http://localhost:3000.
 
 ## 4. Estructura del Proyecto
